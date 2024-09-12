@@ -40,7 +40,7 @@ export function Navbar() {
                 <User className="ml-2 w-4 h-4" />
               </Button>
             </Link>
-          )}
+          )} 
         </div>
       </div>
     </div>

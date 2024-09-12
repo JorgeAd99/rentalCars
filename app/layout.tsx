@@ -8,8 +8,8 @@ import { Toaster } from "@/components/ui/toaster";
 const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Admin TarreCars",
-  description: "Course rental cars by TarreDev",
+  title: "Admin Rental Cars",
+  description: "Powered by Jado.Dev",
 };
 
 export default function RootLayout({
